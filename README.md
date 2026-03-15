@@ -6,6 +6,7 @@ Will be there soon
 ![Stage 2](https://github.com/user-attachments/assets/5da8a782-d289-4bfe-bf55-3719c6ec5b6b)
 ### Reinforcing structure (Leg.f3d file)
 ### The rotating scale (Ring.f3d file)
+![Ring](https://github.com/user-attachments/assets/900190d8-7d92-40bd-9cbd-0544109dd992)
 ### Holder for the rotating scale (Centre.f3d file)
 ## Other details and instruments
 #### Available for purchase at a hardware store:
