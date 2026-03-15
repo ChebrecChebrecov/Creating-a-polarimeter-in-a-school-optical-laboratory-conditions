@@ -2,10 +2,10 @@
 ## Photo
 Will be there soon
 ## Printable details
-### Stage (Stage 2.3fd file)
-### Leg (Leg.3fd file)
-### Ring (Ring.3fd file)
-### Centre (Centre.3fd file)
+### Stage (Stage 2.f3d file)
+### Leg (Leg.f3d file)
+### Ring (Ring.f3d file)
+### Centre (Centre.f3d file)
 ## Other details and instruments
 #### Available for purchase at a hardware store:
 - 2 reinforcement bars 10 mm in diameter
