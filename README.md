@@ -5,7 +5,7 @@ Will be there soon
 ### Central platform and the ground platform (Stage 2.f3d file)
 ![Stage 2](https://github.com/user-attachments/assets/5da8a782-d289-4bfe-bf55-3719c6ec5b6b)
 ### Reinforcing structure (Leg.f3d file)
-![Leg](https://github.com/user-attachments/assets/77cf8734-1f27-4f6c-bf86-2316898fad47)
+![Leg](https://github.com/user-attachments/assets/fbd0ad37-062a-454d-94a2-62ded427da20)
 ### Holder for the rotating scale (Ring.f3d file)
 ![Ring](https://github.com/user-attachments/assets/900190d8-7d92-40bd-9cbd-0544109dd992)
 ### The rotating scale (Centre.f3d file)
