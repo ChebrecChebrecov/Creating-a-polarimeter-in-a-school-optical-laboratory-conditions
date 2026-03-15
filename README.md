@@ -3,7 +3,7 @@
 Will be there soon
 ## Printable details
 ### Central platform and the ground platform (Stage 2.f3d file)
-![Central platform and the ground platform](blob:https://web.telegram.org/274fcc63-dbf8-45e6-b602-dcf16fb53e10)
+
 ### Reinforcing structure (Leg.f3d file)
 ### The rotating scale (Ring.f3d file)
 ### Holder for the rotating scale (Centre.f3d file)
