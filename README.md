@@ -3,8 +3,7 @@
 Will be there soon
 ## Printable details
 ### Stage (Stage 2.f3d file)
-  ![Tux, the Linux mascot](C:\Users\хозяин\Pictures\Screenshots\Снимок экрана 2026-03-15 150920.png)
-### Leg (Leg.f3d file)
+ 
 ### Ring (Ring.f3d file)
 ### Centre (Centre.f3d file)
 ## Other details and instruments
