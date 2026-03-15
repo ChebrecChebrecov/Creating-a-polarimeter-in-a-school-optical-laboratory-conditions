@@ -2,6 +2,10 @@
 ## Photo
 Will be there soon
 ## Printable details
+### Stage (stage2 file)
+### Leg (leg file)
+### Ring (ring file)
+### Centre (centre file)
 ## Other details and instruments
 #### Available for purchase at a hardware store:
 - 2 reinforcement bars 10 mm in diameter
@@ -10,5 +14,6 @@ Will be there soon
 - focused light source (flashlight with this feature or just lightsource and focusing lens)
 - tripod holder and tripod clamp(to hold the light source)
 - polarizing film
+- Plexiglass tube and plexiglass platform
 ## How-to-craft
 Will be there soon
