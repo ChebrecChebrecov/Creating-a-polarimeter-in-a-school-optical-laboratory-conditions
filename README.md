@@ -3,6 +3,7 @@
 Will be there soon
 ## Printable details
 ### Stage (Stage 2.f3d file)
+  ![Tux, the Linux mascot](C:\Users\хозяин\Pictures\Screenshots\Снимок экрана 2026-03-15 150920.png)
 ### Leg (Leg.f3d file)
 ### Ring (Ring.f3d file)
 ### Centre (Centre.f3d file)
@@ -14,6 +15,6 @@ Will be there soon
 - focused light source (flashlight with this feature or just lightsource and focusing lens)
 - tripod holder and tripod clamp(to hold the light source)
 - polarizing film
-- Plexiglass tube and plexiglass platform
+- plexiglass tube and plexiglass platform
 ## How-to-craft
 Will be there soon
