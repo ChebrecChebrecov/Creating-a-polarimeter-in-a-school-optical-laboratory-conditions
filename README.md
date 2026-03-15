@@ -3,7 +3,8 @@
 Will be there soon
 ## Printable details
 ### Stage (Stage 2.f3d file)
- 
+
+### Leg (Leg.f3d file)
 ### Ring (Ring.f3d file)
 ### Centre (Centre.f3d file)
 ## Other details and instruments
