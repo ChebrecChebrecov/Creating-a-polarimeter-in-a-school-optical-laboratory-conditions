@@ -6,8 +6,8 @@
 ![Stage 2](https://github.com/user-attachments/assets/5da8a782-d289-4bfe-bf55-3719c6ec5b6b)
 ### Reinforcing structure (Leg.f3d file)
 ![Leg](https://github.com/user-attachments/assets/fbd0ad37-062a-454d-94a2-62ded427da20)
-### Holder for the rotating scale (Ring.f3d file)
-![Ring](https://github.com/user-attachments/assets/900190d8-7d92-40bd-9cbd-0544109dd992)
+### Holder for the rotating scale (Ring2.f3d file)
+![Ring](https://github.com/user-attachments/assets/3d2069f2-aac2-4472-be5e-2c92dd8b0150)
 ### The rotating scale (Centre.f3d file)
 ![Centre](https://github.com/user-attachments/assets/bafdcb93-3360-4b6f-8fda-eedaf030d266)
 ## Other details and instruments
