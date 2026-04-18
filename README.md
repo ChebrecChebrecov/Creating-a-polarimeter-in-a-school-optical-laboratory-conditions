@@ -1,6 +1,8 @@
 # Creating a polarimeter
 ## Photo of the prototype
 ![Prototype](https://github.com/user-attachments/assets/57199a2b-cd35-4881-8260-f1904449f470)
+## Working principle
+![Principle](https://github.com/user-attachments/assets/aa9b8a5b-b88a-434a-abc2-b46ce3687406)
 ## Printable details
 ### Central platform and the ground platform (Stage 2.f3d file)
 ![Stage 2](https://github.com/user-attachments/assets/5da8a782-d289-4bfe-bf55-3719c6ec5b6b)
