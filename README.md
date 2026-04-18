@@ -23,6 +23,7 @@
 ## How-to-craft
 # 1. First of all, you need to prepare complicate details:
 Print out the details(files are laid out on the page). Glue the plexiglass tube and the plexiglass platform together tightly. It is important to prevent glue stains from getting under the tube. Mounting or cyanoacrylate glue can be used. ash the slides with a grease remover and carefully attach the polarizing firm to slide.
+# 2. 
 
 # Measurements
 ## Working principle
