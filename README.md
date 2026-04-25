@@ -24,7 +24,7 @@
 # 1. First of all, you need to prepare complicate details:
 Print out the details(files are laid out on the page). You'll need 3 Stage 2 details and one piece each for the rest details. Glue the plexiglass tube and the plexiglass platform together tightly. It is important to prevent glue stains from getting under the tube. Mounting or cyanoacrylate glue can be used. Wash the slides with a grease remover and carefully attach the polarizing firm to slide. Also, you should attach the polarizing firm to the Centre detail.
 # 2. Connect the printed details with the reinforcement bars
-At this step, you need to put the printed platforms on the reinforcement bars. The order: Stage1, Legs, Stage2, Stage2, Stage2, Ring, Centre.
+At this step, you need to put the printed platforms on the reinforcement bars. The order: Stage2 ground platform, Legs, Stage2 central, Stage2 central platform, Stage2 central platfrom, Ring, Centre.
 Printed details should be fixed with nuts and washers.
 # 3. Installation of the optical system
 Arrange thd focused light source between legs and first Stage2 with tripod holder. Place the glass slides on the first Stage2. Put the plexiglass tube with platform on the second Stage2. Combine the third Stage2 detail, Ring detail and Centre detail into one analysing structure. It's done! To conduct experiments you should make the sugar syrup.
